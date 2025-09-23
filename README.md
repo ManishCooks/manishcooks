@@ -1,4 +1,4 @@
-# Hi, I'm Manish 👋
+# Hi, I'm Manish Mote👋
 
 I'm a passionate developer interested in AI, machine learning, and Backend Development.
 
