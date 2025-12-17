@@ -3,7 +3,7 @@
 I'm a passionate developer interested in AI, machine learning, and MLOPs.
 
 - 🌱 I’m learning new things every day about Data Science and AI/ML
-- 💬 Ask me about Python, C++, and GitHub
+- 💬 Ask me about C++,Python and GitHub
 - 📫 How to reach me: motemanish9@gmail.com
 - ⚡ Fun fact: I love reading novels and exploring new technologies!
 
