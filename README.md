@@ -22,4 +22,5 @@ I'm a passionate developer interested in AI, machine learning, and MLOps.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishcooks\&show_icons=true\&theme=radical\&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=manishcooks\&show_icons=true\&theme=radical)
+
