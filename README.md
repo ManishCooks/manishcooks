@@ -1,26 +1,27 @@
-# Hi, I'm Manish Mote 👋
+# Manish Mote
 
-I'm a passionate developer interested in AI, machine learning, and MLOps.
+**ML Engineer · Competitive Programmer · AI/MLOps Enthusiast**
 
-* 🌱 I’m learning new things every day about Data Science and AI/ML
-* 💬 Ask me about C++, Python, and GitHub
-* 📫 How to reach me: [motemanish9@gmail.com](mailto:motemanish9@gmail.com)
-* ⚡ Fun fact: I love reading novels and exploring new technologies!
+I build at the intersection of machine learning and systems from training deep learning models to deploying production-ready AI pipelines. Passionate about competitive programming and tackling hard algorithmic problems. Currently deepening expertise in GenAI, Agentic AI, and MLOps.
 
 ---
 
-## Tech Stack
+## 🤖 AI / ML
+`PyTorch` `TensorFlow` `scikit-learn` `NLP` `GenAI` `Agentic AI`  
+`Pandas` `NumPy` `Jupyter`
 
-* Languages: C++, Python
-* Algorithms & CP: Data Structures, Graph Theory, Dynamic Programming, Number Theory
-* Machine Learning: PyTorch, TensorFlow, scikit-learn, NLP, GenAI, Agentic AI
-* Data Tools: Pandas, NumPy, Jupyter
-* Version Control: Git & GitHub
-* Other: Docker, APIs for data
+## ⚡ Competitive Programming
+`Data Structures` `Graph Theory` `Dynamic Programming` `Number Theory`  
+`C++` `Python`
+
+## 🛠️ Tools & Infrastructure
+`Docker` `Git & GitHub` `REST APIs`
 
 ---
 
 ## GitHub Stats
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=manishcooks&show_icons=true&theme=radical)
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=manishcooks\&show_icons=true\&theme=radical)
+---
 
+📫 [motemanish9@gmail.com](mailto:motemanish9@gmail.com) · 📚 Avid reader · Always exploring new tech
