@@ -1,43 +1,51 @@
 # Manish Mote
 
-Systems & ML Engineer | Competitive Programmer
+Building AI systems and occasionally benchmarking them until something breaks.
 
-I work across the ML/systems boundary — training models and building the infrastructure that serves them. Currently deepening GenAI, Agentic AI, and MLOps.
+currently working across:
+
+**algorithms → systems → machine learning → infrastructure**
+
+```text
+input:     data
+process:   questionable amounts of C++ and Python
+output:    hopefully something scalable
+```
+
+<p align="center">
+  <img src="https://github-view-counter.vercel.app/api?username=manishcooks" alt="Profile Views" />
+</p>
+
+## About
+
+I'm an undergraduate at **IIIT Allahabad**, interested in the intersection of **Machine Learning and Systems**.
+
+I enjoy solving algorithmic problems, building software, and understanding the why and how.
+
+## Currently working on
+
+* **OmniBench** — benchmarking vector databases under memory constraints and dynamic workloads
+* Exploring **Machine Learning, GenAI, ML Systems**
+* Competitive programming and algorithmic problem solving
+
+## Interests
+
+`Machine Learning` · `ML Systems` · `Vector Search` · `Systems` · `MLOps` · `Competitive Programming`
 
 ## Stack
 
-**Languages:** C++, Python
+**Languages**
+C++ · Python · C · Java · SQL
 
-**ML:** PyTorch, TensorFlow, scikit-learn, NLP, Pandas, NumPy
+**ML / Data**
+PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
 
-**Systems:** Linux, Multithreading, Concurrency, Vector Databases, ANN Indexing, Docker
+**Systems**
+Linux · Multithreading · Concurrency · Memory Management · Docker
 
-**Backend:** Django, MySQL, TCP/IP, WebSockets, DNS
+**Databases & Search**
+Vector Databases · ANN Search · Vector Indexing · FAISS · Milvus · Qdrant
 
-## Currently building
+## Beyond the code
 
-**OmniBench** — memory-bounded vector database benchmarking framework, scaling past 100M+ vectors without OOM failures.
-
-- Multithreaded orchestration engine
-- Thread-safe shadow map for live data mutation tracking
-- Automated re-indexing triggered by MMD and centroid-shift drift detection
-
-## Stats
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=manishcooks&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Manish's GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishcooks&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top languages"
-  />
-</div>
-
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/manish-mote) · [Email](mailto:motemanish9@gmail.com) 
+Competitive programming is where I try to develop an intuition from first principles until the "why and how" starts making sense.
