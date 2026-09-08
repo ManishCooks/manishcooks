@@ -25,10 +25,19 @@ I work across the ML/systems boundary — training models and building the infra
 ## Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=manishcooks&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishcooks&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=manishcooks&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Manish's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishcooks&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top languages"
+  />
 </div>
+
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/manish-mote) · [Email](mailto:motemanish9@gmail.com) · [GitHub](https://github.com/ManishCooks)
+[LinkedIn](https://linkedin.com/in/manish-mote) · [Email](mailto:motemanish9@gmail.com) 
