@@ -1,33 +1,34 @@
 # Manish Mote
 
-**Systems & ML Engineer | Competitive Programmer**
+Systems & ML Engineer | Competitive Programmer
 
-I build at the intersection of machine learning and systems, from training deep learning models to deploying production-ready AI pipelines. Passionate about competitive programming and tackling hard algorithmic problems. Currently deepening expertise in GenAI, Agentic AI, and MLOps.
+I work across the ML/systems boundary — training models and building the infrastructure that serves them. Currently deepening GenAI, Agentic AI, and MLOps.
 
----
+## Stack
 
-### [ Technical Stack ]
+**Languages:** C++, Python
 
-**AI / ML:** PyTorch | TensorFlow | scikit-learn | NLP | GenAI | Agentic AI | Pandas | NumPy | Jupyter
-**Competitive Programming:** Data Structures | Graph Theory | Dynamic Programming | Number Theory | C++ | Python
-**Systems & Infrastructure:** Linux | Multithreading | Concurrency | Vector Databases | ANN Indexing | Docker
-**Networking & Backend:** TCP/IP | ICMP | UDP | WebSockets | DNS | Django | MySQL
+**ML:** PyTorch, TensorFlow, scikit-learn, NLP, Pandas, NumPy
 
----
+**Systems:** Linux, Multithreading, Concurrency, Vector Databases, ANN Indexing, Docker
 
-### [ Featured Infrastructure Work ]
+**Backend:** Django, MySQL, TCP/IP, WebSockets, DNS
 
-**OmniBench**
-Currently architecturing a memory-bounded vector database benchmarking framework to scale past 100M+ vectors without out-of-memory failures. Buildiing a multithreaded orchestration engine utilizing a thread-safe shadow map for live data mutation tracking, and automated re-indexing triggered by MMD and centroid-shift drift detection. 
+## Currently building
 
----
+**OmniBench** — memory-bounded vector database benchmarking framework, scaling past 100M+ vectors without OOM failures.
 
-### [ Connect ]
+- Multithreaded orchestration engine
+- Thread-safe shadow map for live data mutation tracking
+- Automated re-indexing triggered by MMD and centroid-shift drift detection
 
-Email: motemanish9@gmail.com
-LinkedIn: https://linkedin.com/in/manish-mote
-GitHub: https://github.com/ManishCooks
+## Stats
 
-<br>
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=manishcooks&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishcooks&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=manishcooks&show_icons=true&theme=radical)
+## Contact
+
+[LinkedIn](https://linkedin.com/in/manish-mote) · [Email](mailto:motemanish9@gmail.com) · [GitHub](https://github.com/ManishCooks)
